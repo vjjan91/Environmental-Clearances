@@ -31,13 +31,13 @@ The data on forest clearances has been stored in 5 separate excel files:
 For the sake of the analysis, we clubbed the above four categories into a single category on clearances post 2014. Secondly, the analysis only includes area in hectares across those proposals that have been categorized as currently approved / pending to be approved (*See code for further details*).
 
 **Between 2000 and 2006, 5076 proposals were categorized as approved / under one of the pending categories. During the same period, 1213 proposals were rejected. 
-Rejection Rate: 19.3%**
+Proportion of proposals rejected: 19.3%**
 
 **Between 2007 and 2014, 9829 proposals were categorized as approved / under one of the pending categories. During the same period, 1161 proposals were rejected. 
-Rejection rate: 10.5%**
+Proportion of proposals rejected: 10.5%**
 
 **Between 2014 and 2020, 17037 proposals were categorized as approved / under one of the pending categories. During the same period, 120 proposals were rejected. 
-Rejection rate: 0.7%!**
+Proportion of proposals rejected: 0.7%!**
 
 If we look at the above information in terms of area:
 
@@ -88,7 +88,7 @@ A map of area of forests approved/pending to be cleared (post 2014)
 
 ![Area by State post 2014 map](https://github.com/vjjan91/WithdrawEIA2020/blob/master/Figures/state_area_post2014.png)
 
-**The analysis suggests that there has been a significant increase in the rate of environmental clearances for the forest category alone since 2014. Further, the rate of rejection for proposals since 2014 is less than 1%.**
+**The analysis suggests that there has been a significant increase in the rate of environmental clearances for the forest category alone since 2014. Further, the proportion of proposals rejected since 2014 is less than 1%.**
 
 *For further analysis on area lost by category by state across two time periods, please visit the figures folder*
 
