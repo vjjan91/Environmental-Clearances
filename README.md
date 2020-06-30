@@ -30,14 +30,14 @@ The data on forest clearances has been stored in 5 separate excel files:
 
 For the sake of the analysis, we clubbed the above four categories into a single category on clearances post 2014. Secondly, the analysis only includes area in hectares across those proposals that have been categorized as currently approved / pending to be approved (*See code for further details*).
 
-**Between 2000 and 2006, 5076 proposals were categorized as approved / under one of the pending categories. During the same period, 1213 proposals were rejected. 
-Proportion of proposals rejected: 19.3%**
+**Between 2000 and 2006, 6695 proposals were categorized as approved / under one of the pending categories. During the same period, 1198 proposals were rejected.  
+Proportion of proposals rejected: 15.2%**
 
-**Between 2007 and 2014, 9829 proposals were categorized as approved / under one of the pending categories. During the same period, 1161 proposals were rejected. 
-Proportion of proposals rejected: 10.5%**
+**Between 2007 and 2014, 14710 proposals were categorized as approved / under one of the pending categories. During the same period, 1396 proposals were rejected. 
+Proportion of proposals rejected: 8.6%**
 
-**Between 2014 and 2020, 17037 proposals were categorized as approved / under one of the pending categories. During the same period, 120 proposals were rejected. 
-Proportion of proposals rejected: 0.7%!**
+**Between 2014 and 2020, 24157 proposals were categorized as approved / under one of the pending categories. During the same period, 120 proposals were rejected.  
+Proportion of proposals rejected: 0.5%!**
 
 If we look at the above information in terms of area:
 
